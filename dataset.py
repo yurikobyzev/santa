@@ -62,7 +62,7 @@ class ImagesDataSet:
             shear_range=0.1,
             zoom_range=0.1,
             rotation_range=2,
-            brightness_range=(0.9, 1.1),
+            brightness_range=(1.1,1.5),
             horizontal_flip=True,
         )
 
